@@ -1,0 +1,17 @@
+C:\Users\m_wa\Desktop\ivao_clean\ivao\ivao\bin\Debug\netcoreapp2.1\win-x64\hostpolicy.dll
+C:\Users\m_wa\Desktop\ivao_clean\ivao\ivao\bin\Debug\netcoreapp2.1\win-x64\hostfxr.dll
+C:\Users\m_wa\Desktop\ivao_clean\ivao\ivao\bin\Debug\netcoreapp2.1\win-x64\ivao.exe
+C:\Users\m_wa\Desktop\ivao_clean\ivao\ivao\bin\Debug\netcoreapp2.1\win-x64\ivao.deps.json
+C:\Users\m_wa\Desktop\ivao_clean\ivao\ivao\bin\Debug\netcoreapp2.1\win-x64\ivao.runtimeconfig.json
+C:\Users\m_wa\Desktop\ivao_clean\ivao\ivao\bin\Debug\netcoreapp2.1\win-x64\ivao.runtimeconfig.dev.json
+C:\Users\m_wa\Desktop\ivao_clean\ivao\ivao\bin\Debug\netcoreapp2.1\win-x64\ivao.dll
+C:\Users\m_wa\Desktop\ivao_clean\ivao\ivao\bin\Debug\netcoreapp2.1\win-x64\ivao.pdb
+C:\Users\m_wa\Desktop\ivao_clean\ivao\ivao\obj\Debug\netcoreapp2.1\win-x64\ivao.csprojAssemblyReference.cache
+C:\Users\m_wa\Desktop\ivao_clean\ivao\ivao\obj\Debug\netcoreapp2.1\win-x64\ivao.Properties.Resources.resources
+C:\Users\m_wa\Desktop\ivao_clean\ivao\ivao\obj\Debug\netcoreapp2.1\win-x64\ivao.csproj.GenerateResource.cache
+C:\Users\m_wa\Desktop\ivao_clean\ivao\ivao\obj\Debug\netcoreapp2.1\win-x64\ivao.csproj.CoreCompileInputs.cache
+C:\Users\m_wa\Desktop\ivao_clean\ivao\ivao\obj\Debug\netcoreapp2.1\win-x64\ivao.AssemblyInfoInputs.cache
+C:\Users\m_wa\Desktop\ivao_clean\ivao\ivao\obj\Debug\netcoreapp2.1\win-x64\ivao.AssemblyInfo.cs
+C:\Users\m_wa\Desktop\ivao_clean\ivao\ivao\obj\Debug\netcoreapp2.1\win-x64\ivao.dll
+C:\Users\m_wa\Desktop\ivao_clean\ivao\ivao\obj\Debug\netcoreapp2.1\win-x64\ivao.pdb
+C:\Users\m_wa\Desktop\ivao_clean\ivao\ivao\obj\Debug\netcoreapp2.1\win-x64\ivao.genruntimeconfig.cache

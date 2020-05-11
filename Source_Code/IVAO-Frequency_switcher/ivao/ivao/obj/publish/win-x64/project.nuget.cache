@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "dgSpecHash": "mfO7eo0rFmnsnRC1a9Z5ejc9Kq48Z4viRnOoXj8/RzNyiLkt30kyoM5IDRK144Bdy0Zy6BC12l0jZvW65uuKCQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\m_wa\\Desktop\\ivao_clean\\ivao\\ivao\\ivao.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\m_wa\\.nuget\\packages\\microsoft.netcore.app\\2.1.17\\microsoft.netcore.app.2.1.17.nupkg.sha512",
+    "C:\\Users\\m_wa\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.17\\microsoft.netcore.dotnetapphost.2.1.17.nupkg.sha512",
+    "C:\\Users\\m_wa\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.1.17\\microsoft.netcore.dotnethostpolicy.2.1.17.nupkg.sha512",
+    "C:\\Users\\m_wa\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.1.17\\microsoft.netcore.dotnethostresolver.2.1.17.nupkg.sha512",
+    "C:\\Users\\m_wa\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\m_wa\\.nuget\\packages\\microsoft.netcore.targets\\2.0.0\\microsoft.netcore.targets.2.0.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\m_wa\\.nuget\\packages\\runtime.win-x64.microsoft.netcore.app\\2.1.17\\runtime.win-x64.microsoft.netcore.app.2.1.17.nupkg.sha512",
+    "C:\\Users\\m_wa\\.nuget\\packages\\runtime.win-x64.microsoft.netcore.dotnetapphost\\2.1.17\\runtime.win-x64.microsoft.netcore.dotnetapphost.2.1.17.nupkg.sha512",
+    "C:\\Users\\m_wa\\.nuget\\packages\\runtime.win-x64.microsoft.netcore.dotnethostpolicy\\2.1.17\\runtime.win-x64.microsoft.netcore.dotnethostpolicy.2.1.17.nupkg.sha512",
+    "C:\\Users\\m_wa\\.nuget\\packages\\runtime.win-x64.microsoft.netcore.dotnethostresolver\\2.1.17\\runtime.win-x64.microsoft.netcore.dotnethostresolver.2.1.17.nupkg.sha512",
+    "C:\\Users\\m_wa\\.nuget\\packages\\system.configuration.configurationmanager\\4.7.0\\system.configuration.configurationmanager.4.7.0.nupkg.sha512",
+    "C:\\Users\\m_wa\\.nuget\\packages\\system.security.accesscontrol\\4.7.0\\system.security.accesscontrol.4.7.0.nupkg.sha512",
+    "C:\\Users\\m_wa\\.nuget\\packages\\system.security.cryptography.protecteddata\\4.7.0\\system.security.cryptography.protecteddata.4.7.0.nupkg.sha512",
+    "C:\\Users\\m_wa\\.nuget\\packages\\system.security.permissions\\4.7.0\\system.security.permissions.4.7.0.nupkg.sha512",
+    "C:\\Users\\m_wa\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
